@@ -1,0 +1,5 @@
+gmail= tanipintar.stikom@gmail.com
+pass = ceweksukses1234
+
+username = keuangan
+pass	 = 123
