@@ -2,7 +2,7 @@
 import React, { Component } from 'react'
 import Head from 'next/head'
 
-import firebase from './db';
+import firebase from '../lib/db';
 import Router from 'next/router'
 class TambahData extends Component {
     constructor(props) {

@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Router from 'next/router'
 import Link from 'next/link'
-import firebase from '../pages/db';
+import firebase from '../lib/db';
 import panen from '../pages/panen';
 
 class subtot extends Component {

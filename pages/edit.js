@@ -3,7 +3,7 @@ import Router from 'next/router'
 //import moment from 'moment';
 import Link from 'next/link'
 import Layout from '../components/layout';
-import firebase from "./db";
+import firebase from "../lib/db";
 
 export default class extends Component {
   constructor(props) {
