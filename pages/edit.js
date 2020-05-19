@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Router from 'next/router'
-import moment from 'moment';
+//import moment from 'moment';
 import Link from 'next/link'
 import Layout from '../components/layout';
 import firebase from "./db";
